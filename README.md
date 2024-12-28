@@ -16,6 +16,7 @@ This project aims to build a resume analysis system using a machine learning mod
 ---
 
 ## **Dataset**  
+Dataset link: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 The dataset was sourced from [Kaggle](https://www.kaggle.com/). It contains:  
 - **2400+ Resumes** in string and PDF format.  
 - Labels: Categories such as HR, IT, Finance, etc.  
